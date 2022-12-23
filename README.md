@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
+Here's a walkthrough of implemented features (take a few seconds to load):
 
 <img src='./game-walkthrough1.gif' title='Video Walkthrough' width='80%' alt='Video Walkthrough'/>
 
