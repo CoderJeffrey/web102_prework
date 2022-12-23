@@ -19,7 +19,9 @@ body {
     margin-right: -10px;
     margin-top: -10px; 
 }
-
+.header-text{
+    color: black;
+}
 .header-left{
     display: flex;
 }
@@ -83,4 +85,9 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+.clickableBtn:hover{
+    background-color: #add8e6;
+    box-shadow: 0 0 5px rgb(200, 200, 235)
 }

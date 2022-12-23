@@ -18,8 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [✔] Add the Game Tag in the Nav Bar to allow user to navigate to Game Section quickly!
-* [ ] List anything else that you can get done to improve the app functionality!
-* [ ] List anything else that you can get done to improve the app functionality!
+* [✔] Add lighting and color effects when user click on the "filter" buttons (e.g. Show Unfunded Only)
 
 ## Video Walkthrough
 

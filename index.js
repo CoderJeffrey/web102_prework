@@ -38,6 +38,7 @@ function addGamesToPage(games) {
                 <img src="${game.img}" class="game-img">
                 <p>Name: ${game.name}</p>
                 <p>Goal: ${game.description}</p>
+                <p>Backers: ${game.backers}</p>
             </div>`;
 
         // set the inner HTML using a template literal to display some info 
