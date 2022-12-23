@@ -24,8 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/PZohDtx.gif' title='Video Walkthrough' width='100%' alt='Video Walkthrough' />
-#[Screenshot](https://imgur.com/PZohDtx.gif)
+<img src='./game-walkthrough1.gif' title='Video Walkthrough' width='80%' alt='Video Walkthrough'/>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap
