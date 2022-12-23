@@ -34,7 +34,7 @@ GIF created with LICEcap
 
 ## Notes
 
-Describe any challenges encountered while building the app:
+Describe any challenges encountered while building the app:   
 The hardest part is try to add the Game tag so user can direct to the game section quickly. It is hard as I have to familiar with page layout and flexbox to design the tag beautifully.
 
 ## License
