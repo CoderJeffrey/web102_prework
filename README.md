@@ -34,8 +34,10 @@ GIF created with LICEcap
 
 ## Notes
 
-Describe any challenges encountered while building the app:   
-The hardest part is try to add the Game tag so user can direct to the game section quickly. It is hard as I have to familiar with page layout and flexbox to design the tag beautifully.
+Overall, the prework instructions are quite educational and useful, and they lead me to the conclusion of the problem.
+The most difficult element is attempting to include the Game tag in the navigation bar so that the user can quickly navigate to the game section. To begin, I must become acquainted with page layout, HTML, and Flexbox in order to create a stunning tag. Another aspect is to debug through the challenge; there are many areas where I need to figure out how to employ complicated Javascript usage to create the page's multi-functionality.
+
+However, after conquering all of these obstacles, I learned a lot about JS, HTML, and CSS, as well as the basic fundamentals of front-end/back-end development. I am grateful for accepting this challenge and want to learn more in the web102 courses if accepted.
 
 ## License
 
